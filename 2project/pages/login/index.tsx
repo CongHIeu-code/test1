@@ -1,5 +1,5 @@
 export default function login(){
     return(
-        <h1>Login Page</h1>
+        <h1>:V ngu de</h1>
     )
 }
